@@ -19,7 +19,7 @@
     ]
   },
   "src/routes/[...404].tsx?pick=default&pick=$css": {
-    "file": "assets/_...404_-BSoaa7B0.js",
+    "file": "assets/_...404_-B63K-9-5.js",
     "name": "_...404_",
     "src": "src/routes/[...404].tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -43,7 +43,7 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-BJYuS5h0.js",
+    "file": "assets/client-BrirhLUI.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
